@@ -6,3 +6,7 @@
 ## Enhancement 1 - Software Design and Engineering
 <a href="[https://web.site](https://github.com/hansolo1995/cs465-fullstack/tree/CS499Enhancement1)">Enhancement 1 Repository</a>
 
+## Enhancement 2 - Algorithms and Data Structure
+<a href="[https://web.site](https://github.com/hansolo1995/cs465-fullstack/tree/CS499Enhancement2)">Enhancement 2 Repository</a>
+
+## Enhancement 3 - Databases
