@@ -17,7 +17,7 @@ This enhancement covers a broader range of concepts and skillsets and so meets a
 Enhancing and modifying the artifact was more challenging than I assumed due to the nature of full stack applications. Many files are intertwined with one another and work in unison to create a full-fledged system that stores and displays different kinds of information. Seemingly simple tasks such as creating a form submission page become tedious when the data it holds needs to be shared across all other parts of the system. At the same time, I can see the efficiency and utility full-stack frameworks are capable of providing once one is well-versed in understanding their techniques and recognizing their data flow.
 
 
-<a href="https://github.com/hansolo1995/cs465-fullstack/tree/CS499Enhancement1">Enhancement 1 Repository</a>
+<a href="[https://github.com/hansolo1995/cs465-fullstack/tree/CS499Enhancement1](https://github.com/hansolo1995/cs465-fullstack/tree/CS499Enhancement1)">Enhancement 1 Repository</a>
 
 ## Enhancement 2 - Algorithms and Data Structure
 <a href="https://github.com/hansolo1995/cs465-fullstack/tree/CS499Enhancement2">Enhancement 2 Repository</a>
